@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Gestor-de-Tareas.test/Gestor-de-Tareas.test.csproj" />
+  <Project Path="Gestor-de-Tareas\Gestor-de-Tareas.csproj" />
+</Solution>
